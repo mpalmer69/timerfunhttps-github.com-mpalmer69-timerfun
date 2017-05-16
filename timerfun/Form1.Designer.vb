@@ -67,7 +67,7 @@ Partial Class Form1
         '
         'reset
         '
-        Me.reset.Location = New System.Drawing.Point(100, 201)
+        Me.reset.Location = New System.Drawing.Point(100, 45)
         Me.reset.Name = "reset"
         Me.reset.Size = New System.Drawing.Size(75, 23)
         Me.reset.TabIndex = 3
